@@ -1,0 +1,8 @@
+name = "Iñapari"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.inp"
+
+[windows]
+system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"

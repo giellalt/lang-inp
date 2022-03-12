@@ -2,7 +2,7 @@ The Iñapari morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/issues)
-[![Build Status](https://github.com/giellalt/lang-inp/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-inp/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-inp/main/badge.svg)](https://github.com/giellalt/lang-inp/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/blob/main/LICENSE)
 
 This repository contains finite state source files for the Iñapari language,

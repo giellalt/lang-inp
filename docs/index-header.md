@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-inp/main/badge.svg)](https://github.com/giellalt/lang-inp/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-inp/main/badge.svg)](https://github.com/giellalt/lang-inp/actions)
 
 This page documents the work on the **Iñapari language model**. 
 

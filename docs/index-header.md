@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-inp)](https://github.com/giellalt/lang-inp/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-inp?label=CI)](https://builds.giellalt.org/pipelines/lang-inp/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/inap1242)
 
 This page documents the work on the **Iñapari language model**. 
 
